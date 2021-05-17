@@ -193,6 +193,9 @@ li.slick-active button{
     height: auto;
     
 }
+.bloco-imagens-texto{
+    color:#ffffff;
+}
 
 .bloco-imagem {
     height: 300px ;
@@ -213,6 +216,7 @@ li.slick-active button{
 
 h3 {
     font-weight: normal!important;
+    
 }
 
 .bloco-imagens-texto {
