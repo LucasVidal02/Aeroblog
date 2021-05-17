@@ -1,0 +1,17 @@
+.histboeing img {
+    width: 100%;
+}
+
+.text-boeing {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    
+}
+
+.text-boeing p {
+    text-align: left;
+    margin: 0 auto;
+    width: 780px;
+    position: relative;   
+}
+
