@@ -67,6 +67,11 @@ main, .content {
     height: 80px;
 }
 
+.border {
+    border-top: 3px solid #252323;
+    height: 100px;
+}
+
 .menu ul li {
     display: inline-block;
     color: black;
@@ -223,3 +228,13 @@ h3 {
     background-color: #252323;
 }
 
+a {
+    color: inherit;
+}
+
+.Posts{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    color:#ffffff;
+
+}
